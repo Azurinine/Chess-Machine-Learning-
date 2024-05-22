@@ -4,7 +4,7 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 
-root_data_dir = '/Users/achintya/Downloads/png_piece_achintya/'  # Replace with the path to your root data folder
+root_data_dir = '/Users/achintya/Downloads/png_piece_achintya/'  # Replace this with the actual path to the chess pieces in the files
 
 # Initialize empty lists to store labels and image data
 labels = []
